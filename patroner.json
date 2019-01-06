@@ -1,0 +1,40 @@
+{
+  "patroner": [{
+    "id": 1,
+    "num": "001",
+    "name": "Gyttorp Steel Max",
+    "img": "https://via.placeholder.com/200",
+    "rekanv": [
+      "Skeet",
+      "Trap",
+      "Övningsskytte"
+    ],
+    "laddning": "24g",
+    "typ": "Stål",
+    "usnr": [
+      "7",
+      "8,5"
+      ],
+    "hylsa": "70mm Plast",
+    "v1": "400m/s",
+    "info": "Marknadsledaren, den överlägset mest sålda stålpatronen i Norden. Väl avvägd fart och väl anpassade komponeter ger prestanda som utmanar konkurrenterna.",
+  }, {
+    "id": 2,
+    "num": "002",
+    "name": "Gyttorp Classic",
+    "img": "https://via.placeholder.com/200",
+    "rekanv": [
+      "Trap",
+      "Sporting"
+    ],
+    "laddning": "24g",
+    "typ": "Stål",
+    "usnr": [
+      "7"
+      ],
+    "hylsa": "70mm Plast",
+    "v1": "410m/s",
+    "info": "En tävlingspatron med det klassiska receptet och den klassiska designen på asken. För tävlingsskyttar i Sporting och Nordisk Trap är detta den optimala patronen när prestanda ställs mot pris.",
+  },
+  }]
+}
