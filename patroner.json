@@ -3,7 +3,7 @@
     "id": 1,
     "num": "001",
     "name": "Gyttorp Steel Max",
-    "img": "https://via.placeholder.com/200",
+    "img": "https://via.placeholder.com/200.png?text=Gyttorp+Steel+Max",
     "rekanv": [
       "Skeet",
       "Trap",
@@ -23,7 +23,7 @@
       "id": 2,
       "num": "002",
       "name": "Gyttorp Classic",
-      "img": "https://via.placeholder.com/200",
+      "img": "https://via.placeholder.com/200.png?text=Gyttorp+Classic",
       "rekanv": [
         "Trap",
         "Sporting"
