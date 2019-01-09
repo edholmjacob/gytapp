@@ -3,7 +3,7 @@
     "id": 1,
     "num": "001",
     "name": "Gyttorp Steel Max",
-    "img": "http://placehold.jp/99ccff/003366/150x150.png?text=Gyttorp%20Steel%20Max&css=%7B%22border-radius%22%3A%2230px%22%2C%22background%22%3A%22%20-webkit-%20%22%7D",
+    "img": "http://placehold.jp/1f1f1f/ffffff/150x150.png?text=Gyttorp%20Steel%20Max&css=%7B%22border-radius%22%3A%2230px%22%7D",
     "rekanv": [
       "Skeet",
       "Trap",
@@ -25,7 +25,7 @@
       "id": 2,
       "num": "002",
       "name": "Gyttorp Classic",
-      "img": "http://placehold.jp/99ccff/003366/150x150.png?text=Gyttorp%20Classic&css=%7B%22border-radius%22%3A%2230px%22%2C%22background%22%3A%22%20-webkit-%20%22%7D",
+      "img": "http://placehold.jp/1f1f1f/ffffff/150x150.png?text=Gyttorp%20Classic&css=%7B%22border-radius%22%3A%2230px%22%7D",
       "rekanv": [
         "Trap",
         "Sporting"
